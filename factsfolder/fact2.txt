@@ -1,0 +1,4 @@
+Interesting facts about python :
+
+Heat-Sensing Pits: Most pythons possess specialized infrared-sensing pits along their jawline or lip scales, 
+allowing them to detect the body heat of warm-blooded prey in total darkness.

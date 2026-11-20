@@ -1,4 +1,6 @@
+# Interesing facts about python :
+
 Constriction, Not Venom: Pythons have no venom. Instead, they grab prey with sharp, rearward-pointing teeth, 
 coil their muscular bodies around the animal, and squeeze tighter with each exhale until the prey stops breathing
 
-Heat Vision: They possess heat-sensing pits along their lip scales to detect the thermal signature of warm-blooded mammals and birds in total darkness
+
