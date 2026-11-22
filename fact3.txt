@@ -1,4 +1,4 @@
-## Interesting facts about python : 
+# Interesting facts about python : 
 
 Egg layers: Unlike boas that give birth to live young, pythons lay eggs. 
 Females coil around their eggs to keep them warm—sometimes shivering to generate heat—until they hatch.
